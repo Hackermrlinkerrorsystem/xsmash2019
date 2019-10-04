@@ -56,4 +56,4 @@ $ python2 xsmash2019.py
 * Fix conditions Error
 ```
 # Screen :)
-<img src='https://raw.githubusercontent.com/Hackermrlinkerrorsystem/xsmash2019/blob/master/Screenshot_2019-10-04-18-36-55-058_com.termux.png'>
+<a href="https://ibb.co/9hhc0rP"><img src="https://i.ibb.co/9hhc0rP/Screenshot-2019-10-04-18-36-55-058-com-termux.png" alt="Screenshot-2019-10-04-18-36-55-058-com-termux" border="0"></a>
